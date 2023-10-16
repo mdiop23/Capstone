@@ -10,9 +10,13 @@
     font-family: 'Mohave', sans-serif;
     font-size: 22px;
  }
-.signupbg{
-    background-color:#6b3a05;
+body{
+    background-image: url(../images/protruding-squares.png);
 }
+    
+    .signupbg{
+    background-color:#6b3a05;
+    }
 
 .checkoutbg{
     background-color: #6b3a05;
@@ -33,8 +37,15 @@
 .card-body{
     background-color: brown;
 }
+.resize {
+    width: 350px;
+    height: auto;
+}
 
-
+.resize {
+    width: 250px;
+    height: auto;
+}
 
 
 
