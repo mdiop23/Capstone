@@ -35,6 +35,5 @@ Another piece of code that I enjoyed adding that enhanced the functionality and 
                 <a href="https://github.com/mdiop23"> <i class="bi bi-github"></i> </a>
                 <a href="#"> <i class="bi bi-envelope-plus"></i> </a>
                </div>
-            </div>
-
+            </div> --!>
 
