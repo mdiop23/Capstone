@@ -13,9 +13,8 @@ My first capstone is a nonfunctional mockup of an e-commerce website where I am 
 ![products1](https://github.com/mdiop23/Capstone/assets/146775502/d518993f-22e5-452a-b8a6-43e81fb3c791)
 ![products2](https://github.com/mdiop23/Capstone/assets/146775502/b2fce5b6-093f-4952-b3d4-17794c030850)
 ![checkout1](https://github.com/mdiop23/Capstone/assets/146775502/ab656311-f487-46c1-b586-6df35a4a0b02)
-![checkout3](https://github.com/mdiop23/Capstone/assets/146775502/478edcf7-fa54-416d-9fce-c8ece2b3110d)
 ![checkout2](https://github.com/mdiop23/Capstone/assets/146775502/15131668-d627-434b-8c5a-36e2c54dc056)
-
+![checkout3](https://github.com/mdiop23/Capstone/assets/146775502/478edcf7-fa54-416d-9fce-c8ece2b3110d)
 ## Notes
 
 
@@ -27,10 +26,9 @@ I think it is such a cool aspect and the one piece of my site that gives the app
                     <a href="checkout.html" class="card-link">Add to cart</a>
                 </div>
 
-Another piece of code that I enjoyed adding that enhanced the functionality and user's ability to interact with site wihtout using Javascript is how I linked my Instagram and Github accounts externally at the bottom on my homepage.
+Another piece of code that I enjoyed adding that enhanced the functionality and user's ability to interact with site wihtout using Javascript is how I linked my Instagram and Github accounts externally at the bottom on my homepage. 
 
-
-<div class="social d-flex justify-content-around ">
+<!-- <div class="social d-flex justify-content-around ">
               <div style="padding-right: 5px;">
                 <p>Contact us:</p>
                 <a href="https://www.instagram.com/whodinacooks/"> <i class="bi bi-instagram"></i> </a>
