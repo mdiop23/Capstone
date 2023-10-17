@@ -28,18 +28,12 @@ I think it is such a cool aspect and the one piece of my site that gives the app
 
 Another piece of code that I enjoyed adding that enhanced the functionality and user's ability to interact with site wihtout using Javascript is how I linked my Instagram and Github accounts externally at the bottom on my homepage. 
 
-<!-- <div class="social d-flex justify-content-around ">
+
+ <!-- <div class="social d-flex justify-content-around ">
               <div style="padding-right: 5px;">
                 <p>Contact us:</p>
-                <a href="https://www.instagram.com/whodinacooks/"> <i class="bi bi-instagram"></i> </a>
-                <a href="https://github.com/mdiop23"> <i class="bi bi-github"></i> </a>
-<<<<<<< HEAD
+                <a href="https://www.instagram.com/whodinacooks/" target="_blank"> <i class="bi bi-instagram"></i> </a>
+                <a href="https://github.com/mdiop23" target="_blank"> <i class="bi bi-github"></i> </a>
                 <a href="#"> <i class="bi bi-envelope-plus"></i> </a>
                </div>
             </div> -->
-=======
-                <a href="#"> <i class="bi bi-envelope-plus"></i> </a> 
-              </div>
-             </div> -->
-
->>>>>>> ef81d5b07738fe037a8f64d3d8224f7527b0940a
