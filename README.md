@@ -15,9 +15,9 @@ My first capstone is a nonfunctional mockup of an e-commerce website where I am 
 ![checkout1](https://github.com/mdiop23/Capstone/assets/146775502/ab656311-f487-46c1-b586-6df35a4a0b02)
 ![checkout2](https://github.com/mdiop23/Capstone/assets/146775502/15131668-d627-434b-8c5a-36e2c54dc056)
 ![checkout3](https://github.com/mdiop23/Capstone/assets/146775502/478edcf7-fa54-416d-9fce-c8ece2b3110d)
+
+
 ## Notes
-
-
 An interesting piece of code that I wrote was on my products page, in each individual card where I was able to link each product to the checkout page so it appeared to add them to the cart.
 I think it is such a cool aspect and the one piece of my site that gives the appearance of true functionality.
 
@@ -35,5 +35,4 @@ Another piece of code that I enjoyed adding that enhanced the functionality and 
                 <a href="https://github.com/mdiop23"> <i class="bi bi-github"></i> </a>
                 <a href="#"> <i class="bi bi-envelope-plus"></i> </a>
                </div>
-            </div> --!>
-
+            </div> -->
