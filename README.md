@@ -33,6 +33,13 @@ Another piece of code that I enjoyed adding that enhanced the functionality and 
                 <p>Contact us:</p>
                 <a href="https://www.instagram.com/whodinacooks/"> <i class="bi bi-instagram"></i> </a>
                 <a href="https://github.com/mdiop23"> <i class="bi bi-github"></i> </a>
+<<<<<<< HEAD
                 <a href="#"> <i class="bi bi-envelope-plus"></i> </a>
                </div>
             </div> -->
+=======
+                <a href="#"> <i class="bi bi-envelope-plus"></i> </a> 
+              </div>
+             </div> -->
+
+>>>>>>> ef81d5b07738fe037a8f64d3d8224f7527b0940a
