@@ -47,8 +47,23 @@ body{
     height: auto;
 }
 
+.c-item{
+  height: 500px;
+}
 
+.c-img{
+  height: 100%;
+  object-fit: contain;
+}
 
+.maintext{
+  font-weight: bolder;
+  font-size: 2rem; 
+}
+
+.bottomtext{
+  font-weight: bolder;
+}
 
 
   *{margin: 0px; padding: 0px;}  
